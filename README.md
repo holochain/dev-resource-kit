@@ -19,4 +19,3 @@ ecosystem.
 * See [Awesome-Holochain](awesome.md)
 * See [Holochain Developer Portal](https://developer.holochain.org)
 * See [HoloFAQs](holofaqs/index.html)
-* :
