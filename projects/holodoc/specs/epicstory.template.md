@@ -15,7 +15,7 @@ _As a  [type of user], I want  [an action]  so that  [a benefit/a value]_
 2. etc...
 
 ### References/Attachments:
-* [description-absoluteurl](http://dev.holochain.org)
+* [description-absoluteurl](http://developer.holochain.org)
 * [description-relativeurl](/thisimage.png)
 * etc.... 
 
@@ -75,5 +75,5 @@ reqemail = "Requestor or Author email"
 	task.#### = { taskid = "",  taskname = "" } # task: #### represents the unique task # from repo
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc2Mjc1ODVdfQ==
+eyJoaXN0b3J5IjpbMTU1NjU2NjcwOF19
 -->
