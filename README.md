@@ -1,4 +1,4 @@
-# dev-resources-kit
+# Holochain Developer Resource Kit
 ## Summary
 This repo is meant to capture all the community contributed and sponsored content related to
 development in HoloChain. It is meant to serve as a resource for new beginner to intermediate level
