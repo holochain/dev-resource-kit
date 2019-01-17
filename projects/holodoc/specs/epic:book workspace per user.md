@@ -15,7 +15,7 @@ As a Holochain.Docs user, for every book I can have a private workspace represen
 2. etc...
 
 ### References/Attachments:
-* [description-absoluteurl](http://dev.holochain.org)
+* [description-absoluteurl](http://developer.holochain.org)
 * [description-relativeurl](/thisimage.png)
 * etc.... 
 
@@ -75,5 +75,5 @@ reqemail = "Requestor or Author email"
 	task.#### = { taskid = "",  taskname = "" } # task: #### represents the unique task # from repo
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjIxNDA5OCwtNzEyNTg5MDk2XX0=
+eyJoaXN0b3J5IjpbLTExMTIyMjYwNDEsLTcxMjU4OTA5Nl19
 -->
