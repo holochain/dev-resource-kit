@@ -1,4 +1,4 @@
-# Holodoc Specifications
+# Holochain.Docs Specifications
 ## Table of Contents
 * [Wireframes](wireframe.md)
 * Requirements Inventory
@@ -11,5 +11,5 @@
  -- etc...
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzE5NDY4MF19
+eyJoaXN0b3J5IjpbLTYxNDQwOTM3NCwtODI3MTk0NjgwXX0=
 -->
