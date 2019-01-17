@@ -1,7 +1,7 @@
 
 # Epic: Identify & Authenticate User
 ### Objective:
-As a holodoc user, I want to authenticate my session with a unique identity so that any action in the system can be associated to my identity. My identity can be recognized globally by any other holodoc user and all transactions can be associated to my identity and cannot be spoofed or hijacked or compromised. If there is an existing holochain identity infrastructure (dpki) in place that addresses the preceding goals, then the ability to establish and use a holochain dpki based identity. If I lose credentials required to authenticate, there is a way to reset those credentials that is secure and does not compromise the integrity of my identity.
+As a Holochain.Docs user, I want to authenticate my session with a unique identity so that any action in the system can be associated to my identity. My identity can be recognized globally by any other Holochain.Docs user and all transactions can be associated to my identity and cannot be spoofed or hijacked or compromised. If there is an existing holochain identity infrastructure (dpki) in place that addresses the preceding goals, then the ability to establish and use a holochain dpki based identity. If I lose credentials required to authenticate, there is a way to reset those credentials that is secure and does not compromise the integrity of my identity.
 
 ### Related Stories:
 * Story 1...
@@ -20,7 +20,7 @@ As a holodoc user, I want to authenticate my session with a unique identity so t
 4. Authenticated session can be associated to a basic permission right for a basic logged or persisted application event or transaction.
 
 ### References/Attachments:
-* [description-absoluteurl](http://dev.holochain.org)
+* [description-absoluteurl](http://developer.holochain.org)
 * [description-relativeurl](/thisimage.png)
 * etc.... 
 
@@ -81,5 +81,5 @@ reqemail = "Requestor or Author email"
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM3OTI2XX0=
+eyJoaXN0b3J5IjpbNjAyNTkwMzE5XX0=
 -->
