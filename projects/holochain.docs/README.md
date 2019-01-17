@@ -1,4 +1,4 @@
-# HoloDoc Tutorial Project
+# Holochain.Docs Tutorial Project
 ## Overview
  This project is meant to serve as an illustrative project that tackles a broad set of the holochain feature set
  and architecture. The goal is for the issues in delivering to the system design to be clearly addressed by
