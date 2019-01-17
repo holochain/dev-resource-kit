@@ -1,6 +1,6 @@
 # Epic: Book Workspace Per User
 ### Objective:
-As a HoloDoc user, for every book I can have a private workspace representing a collection of book pages representing all my contributed content and revisions. Each page is represented by a markdown file and each book is a book zome that is referenced to either a "private book" (localchain or private dht) or a "published book" (public book dht that is shared with at least one other user). The workspace should only store the minimum amount of data required to represent a revision to another prior version of a given page. 
+As a Holochain.Docs user, for every book I can have a private workspace representing a collection of book pages representing all my contributed content and revisions. Each page is represented by a markdown file and each book is a book zome that is referenced to either a "private book" (localchain or private dht) or a "published book" (public book dht that is shared with at least one other user). The workspace should only store the minimum amount of data required to represent a revision to another prior version of a given page. 
 
 ### Related Stories:
 * Story 1...
@@ -75,5 +75,5 @@ reqemail = "Requestor or Author email"
 	task.#### = { taskid = "",  taskname = "" } # task: #### represents the unique task # from repo
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjU4OTA5Nl19
+eyJoaXN0b3J5IjpbMTEyNjIxNDA5OCwtNzEyNTg5MDk2XX0=
 -->
