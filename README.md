@@ -16,6 +16,6 @@ ecosystem.
   the community and stated education objectives;
 
 ## Resources
-* See [Awesome-Holochain](awesome.md)
+* See [Awesome-Holochain](AWESOME.md)
 * See [Holochain Developer Portal](https://developer.holochain.org)
 * See [Holochain FAQs](holochain.faqs/INDEX.md)
