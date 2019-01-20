@@ -19,3 +19,19 @@
   A curated list of awesome things related to Holochain <i>(Resources, Tools and References)</i>
  </p>
 </blockquote>
+
+
+#### About Holochain
+
+- [Holochain](https://holochain.org)
+- [What is Holochain ? ](https://www.youtube.com/watch?v=hyCtYrHJebs)
+- [Guidebook](https://developer.holochain.org/guide/latest/welcome.html)
+- [Wiki](https://en.bitcoinwiki.org/wiki/Holo)
+- [Blog](https://medium.com/holochain)
+- [Reddit](https://www.reddit.com/r/holochain/)
+- [Youtube](https://www.youtube.com/channel/UC9fNJMIQ9mQ4u9oyoVIqtDQ)
+- [Twitter](https://twitter.com/holochain)
+- [Facebook](https://www.facebook.com/holochain.design/)
+- [Github / Source codes](https://github.com/holochain)
+- [Read the FAQ](https://developer.holochain.org/guide/latest/faq.html)
+- [Telegram](https://t.me/channelHolo)
