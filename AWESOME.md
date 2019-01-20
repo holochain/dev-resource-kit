@@ -35,3 +35,4 @@
 - [Github / Source codes](https://github.com/holochain)
 - [Read the FAQ](https://developer.holochain.org/guide/latest/faq.html)
 - [Telegram](https://t.me/channelHolo)
+- [Meetups/Calendar] (https://calendar.google.com/calendar/embed?src=holo.host_db0nkbagf7jdhrrl6lr94tc80g@group.calendar.google.com&pli=1)
