@@ -16,6 +16,6 @@
 </h2>
 <blockquote>
  <p>
-  A curated list of awesome things related to Holochain
+  A curated list of awesome things related to Holochain <i>(Resources, Tools and References)</i>
  </p>
 </blockquote>
