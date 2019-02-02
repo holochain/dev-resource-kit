@@ -79,18 +79,18 @@
 ### Community
 Unofficial Holo channels for other languages:
 
-- Turkish: t.me/holo_tr
-- Arabic: t.me/Holo_Arabic
-- Benelux: t.me/Benelux_Holo
-- Brazilian Trade: t.me/HOLO_BR - Tech: t.me/holochainbr
-- Chinese: t.me/channelholo_cn
-- German: t.me/Holo_DE
-- India: t.me/holo_in
-- Italian: t.me/holochain_ita
-- Japanese: t.me/holo_jp
-- Korean: t.me/Holokor
-- Russian: t.me/holochain_ru
-- Spanish: t.me/holospain
+- Turkish: https://t.me/holo_tr
+- Arabic: https://t.me/Holo_Arabic
+- Benelux: https://t.me/Benelux_Holo
+- Brazilian Trade: https://t.me/HOLO_BR - Tech: https://t.me/holochainbr
+- Chinese: https://t.me/channelholo_cn
+- German: https://t.me/Holo_DE
+- India: https://t.me/holo_in
+- Italian: https://t.me/holochain_ita
+- Japanese: https://t.me/holo_jp
+- Korean: https://t.me/Holokor
+- Russian: https://t.me/holochain_ru
+- Spanish: https://https://t.me/holospain
 
 
 
