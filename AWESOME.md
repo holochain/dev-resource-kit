@@ -78,16 +78,22 @@
 
 ### Community
 
-For Quick Reference FAQ: https://t.me/holoFAQ
-Announcement Channels: https://t.me/holohosting - https://t.me/holochain
+For Quick Reference FAQ:
+
+- https://t.me/holoFAQ
+
+Announcement Channels:
+
+- https://t.me/holohosting
+- https://t.me/holochain
 
 For topic-organized, detailed discussion, join us on Mattermost (it’s like Slack):
 
-https://chat.holochain.net
+- https://chat.holochain.net
 
 Unofficial Community-Led Groups:
 
-- (https://t.me/holochaindev)[development, hApp, and currency design and philosophy]
+- https://t.me/holochaindev development, hApp, and currency design and philosophy
 - https://t.me/holotroopers - trade and speculation
 - https://t.me/holohodlers - hodler strategy, fundamental analysis channel
 - https://t.me/holonode - DYI hosting discussions
