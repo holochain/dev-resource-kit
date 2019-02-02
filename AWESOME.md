@@ -87,11 +87,11 @@ https://chat.holochain.net
 
 Unofficial Community-Led Groups:
 
-https://t.me/holochaindev - development, hApp, and currency design and philosophy
-https://t.me/holotroopers - trade and speculation
-https://t.me/holohodlers - hodler strategy, fundamental analysis channel
-https://t.me/holonode - DYI hosting discussions
-https://t.me/holomindshare - marketing and engagement
+- (https://t.me/holochaindev)[development, hApp, and currency design and philosophy]
+- https://t.me/holotroopers - trade and speculation
+- https://t.me/holohodlers - hodler strategy, fundamental analysis channel
+- https://t.me/holonode - DYI hosting discussions
+- https://t.me/holomindshare - marketing and engagement
 
 Unofficial Holo channels for other Languages:
 
