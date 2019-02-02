@@ -49,7 +49,6 @@
 - [General Data Protection Regulation](https://medium.com/h-o-l-o/beyond-gdpr-holo-vault-delivering-on-self-sovereign-identity-for-distributed-applications-543a5449d5c9)
 - [Distributed Computing in Context](https://medium.com/h-o-l-o/distributed-computing-in-context-333df23c0f29)
 - [Holo ICO Supply: Organic Mechanics](https://medium.com/h-o-l-o/holo-ico-supply-organic-mechanics-7dcdf655ab5e)
-
 - [Why do you call it "Holochain"?](https://developer.holochain.org/guide/latest/faq.html#why-do-you-call-it-holochain)
 - [How is Holochain different from a DHT (Distributed Hash Table)?](https://developer.holochain.org/guide/latest/faq.html#how-is-holochain-different-from-a-dht-distributed-hash-table)
 - [What kind of projects is Holochain good for? What is Holochain not good for?](https://developer.holochain.org/guide/latest/faq.html#what-kind-of-projects-is-holochain-good-for)
@@ -78,6 +77,21 @@
 
 
 ### Community
+Unofficial Holo channels for other languages:
+
+- Turkish: t.me/holo_tr
+- Arabic: t.me/Holo_Arabic
+- Benelux: t.me/Benelux_Holo
+- Brazilian Trade: t.me/HOLO_BR - Tech: t.me/holochainbr
+- Chinese: t.me/channelholo_cn
+- German: t.me/Holo_DE
+- India: t.me/holo_in
+- Italian: t.me/holochain_ita
+- Japanese: t.me/holo_jp
+- Korean: t.me/Holokor
+- Russian: t.me/holochain_ru
+- Spanish: t.me/holospain
+
 
 
 ### Conferences
