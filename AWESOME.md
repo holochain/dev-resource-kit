@@ -102,7 +102,7 @@ Unofficial Community-Led Groups:
 
 Unofficial Holo channels for other Languages:
 
-- Turkish: https://t.me/holo_tr
+- Turkish: https://t.me/HoloToplulugu
 - Arabic: https://t.me/Holo_Arabic
 - Benelux: https://t.me/Benelux_Holo
 - Brazilian Trade: https://t.me/HOLO_BR - Tech: https://t.me/holochainbr
