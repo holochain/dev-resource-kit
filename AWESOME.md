@@ -26,6 +26,7 @@
 - [Holochain](https://holochain.org)
 - [What is Holochain ? ](https://www.youtube.com/watch?v=hyCtYrHJebs)
 - [Guidebook](https://developer.holochain.org/guide/latest/welcome.html)
+- [Holochain Glossary](https://devcamp.holo.host/mod/glossary/view.php?id=116)
 - [Wiki](https://en.bitcoinwiki.org/wiki/Holo)
 - [Blog](https://medium.com/holochain)
 - [Reddit](https://www.reddit.com/r/holochain/)
