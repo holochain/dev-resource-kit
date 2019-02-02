@@ -75,7 +75,6 @@
 - [Move over, blockchain: Holochain is coming ](https://www.dw.com/en/move-over-blockchain-holochain-is-coming/a-46203245)
 - [Is Bitcoin dying? If so, what will replace it?](https://weisscryptocurrencyratings.com/news/bitcoin-dying-will-replace-1676)
 - [Why Blockchain Developers are Switching to Holochain](https://holochaincitizen.com/2018/12/19/why-blockchain-developers-are-switching-to-holochain/)
--
 
 
 ### Community
