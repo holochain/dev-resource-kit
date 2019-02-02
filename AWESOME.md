@@ -77,7 +77,23 @@
 
 
 ### Community
-Unofficial Holo channels for other languages:
+
+For Quick Reference FAQ: https://t.me/holoFAQ
+Announcement Channels: https://t.me/holohosting - https://t.me/holochain
+
+For topic-organized, detailed discussion, join us on Mattermost (it’s like Slack):
+
+https://chat.holochain.net
+
+Unofficial Community-Led Groups:
+
+https://t.me/holochaindev - development, hApp, and currency design and philosophy
+https://t.me/holotroopers - trade and speculation
+https://t.me/holohodlers - hodler strategy, fundamental analysis channel
+https://t.me/holonode - DYI hosting discussions
+https://t.me/holomindshare - marketing and engagement
+
+Unofficial Holo channels for other Languages:
 
 - Turkish: https://t.me/holo_tr
 - Arabic: https://t.me/Holo_Arabic
