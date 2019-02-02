@@ -69,6 +69,7 @@
 
 #### Developer Kit Resources
 - [Crate HDK](https://developer.holochain.org/api/0.0.2/hdk/index.html)
+- [Building Holochain Apps](https://developer.holochain.org/guide/latest/building_apps.html)
 
 ### External Resources
 
@@ -117,7 +118,9 @@ Unofficial Holo channels for other Languages:
 
 
 
-### Conferences
+### Conferences - Meetups
+
+- [Holochain Meetup at Mozilla Mountain View](https://www.youtube.com/watch?v=NWTUk7QvMQY)
 
 
 ### Podcasts / Videos
