@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
  <br>
   <img alt="awesome" src="images/logo.png" width="400">
    <br>
@@ -41,12 +41,52 @@
 
 ### Official Resources
 
+- [How is Holochain different from blockchain?](https://developer.holochain.org/guide/latest/faq.html#how-is-holochain-different-from-blockchain)
 - [Developer Resource Portal](https://developer.holochain.org/)
 - [First steps writing Holochain hApps with Rust](https://medium.com/holochain/first-steps-writing-holochain-happs-with-rust-80ae111960e)
 - [Holochain in 100, 200, and 500 words](https://medium.com/h-o-l-o/heres-holochain-in-100-200-and-500-words-509818aa3c88)
 - [General Data Protection Regulation](https://medium.com/h-o-l-o/beyond-gdpr-holo-vault-delivering-on-self-sovereign-identity-for-distributed-applications-543a5449d5c9)
+- [Distributed Computing in Context](https://medium.com/h-o-l-o/distributed-computing-in-context-333df23c0f29)
+- [Holo ICO Supply: Organic Mechanics](https://medium.com/h-o-l-o/holo-ico-supply-organic-mechanics-7dcdf655ab5e)
 
-# Apps
+- [Why do you call it "Holochain"?](https://developer.holochain.org/guide/latest/faq.html#why-do-you-call-it-holochain)
+- [How is Holochain different from a DHT (Distributed Hash Table)?](https://developer.holochain.org/guide/latest/faq.html#how-is-holochain-different-from-a-dht-distributed-hash-table)
+- [What kind of projects is Holochain good for? What is Holochain not good for?](https://developer.holochain.org/guide/latest/faq.html#what-kind-of-projects-is-holochain-good-for)
+- [What is Holochain's consensus algorithm?](https://developer.holochain.org/guide/latest/faq.html#what-is-holochains-consensus-algorithm)
+- [Can you run a cryptocurrency on Holochain?](https://developer.holochain.org/guide/latest/faq.html#can-you-run-a-cryptocurrency-on-holochain)
+- [How is Holochain different from __________?](https://developer.holochain.org/guide/latest/faq.html#how-is-holochain-different-from-__________)
+- []What language is Holochain written in? What languages can I use to make Holochain apps?](https://developer.holochain.org/guide/latest/faq.html#what-language-is-holochain-written-in-what-languages-can-i-use-to-make-holochain-apps)
+- [Is Holochain open source?](https://developer.holochain.org/guide/latest/faq.html#is-holochain-open-source)
+- [How is Holochain more environmentally ethical than blockchain?](https://developer.holochain.org/guide/latest/faq.html#how-is-holochain-more-environmentally-ethical-than-blockchain)
+- [How are data validated on Holochain?](https://developer.holochain.org/guide/latest/faq.html#how-are-data-validated-on-holochain)
+- [What happens to data when a node leaves the network?](https://developer.holochain.org/guide/latest/faq.html#what-happens-to-data-when-a-node-leaves-the-network)
+- [Should I build my coin/token on Holochain?](https://developer.holochain.org/guide/latest/faq.html#should-i-build-my-cointoken-on-holochain)
+- [What does “agent-centric” mean? How is this different from “data-centric”?](https://developer.holochain.org/guide/latest/faq.html#what-does-agent-centric-mean-how-is-this-different-from-data-centric)
+- [What is the TPS [Transactions Per Second) on Holochain?)](https://developer.holochain.org/guide/latest/faq.html#what-is-the-tps-transactions-per-second-on-holochain)
+
+
+### External Resources
+
+- [Move over, blockchain: Holochain is coming ](https://www.dw.com/en/move-over-blockchain-holochain-is-coming/a-46203245)
+- [Is Bitcoin dying? If so, what will replace it?](https://weisscryptocurrencyratings.com/news/bitcoin-dying-will-replace-1676)
+- [Why Blockchain Developers are Switching to Holochain](https://holochaincitizen.com/2018/12/19/why-blockchain-developers-are-switching-to-holochain/)
+-
+
+
+### Community
+
+
+### Conferences
+
+
+### Podcasts / Videos
+
+- [Holochain App Dev / Review vs Elastos $HOT vs $ELA](https://www.youtube.com/watch?v=TdW8YaHKKY0)
+- [HOLOCHAIN REVIEW (2019) - HOLO FUEL EXPLAINED - MASSIVE POTENTIAL](https://www.youtube.com/watch?v=eEbTrCS-PGQ)
+
+
+
+### Apps
 Projects Using Holochain
 
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
