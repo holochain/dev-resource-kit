@@ -45,6 +45,8 @@
 - [First steps writing Holochain hApps with Rust](https://medium.com/holochain/first-steps-writing-holochain-happs-with-rust-80ae111960e)
 
 # Apps
+Projects Using Holochain
+
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
 Clutter | Prototype twitter clone | https://github.com/holochain/clutter | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/clutter.svg)
