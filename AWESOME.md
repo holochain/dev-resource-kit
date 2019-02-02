@@ -64,6 +64,9 @@
 - [Should I build my coin/token on Holochain?](https://developer.holochain.org/guide/latest/faq.html#should-i-build-my-cointoken-on-holochain)
 - [What does “agent-centric” mean? How is this different from “data-centric”?](https://developer.holochain.org/guide/latest/faq.html#what-does-agent-centric-mean-how-is-this-different-from-data-centric)
 - [What is the TPS [Transactions Per Second) on Holochain?)](https://developer.holochain.org/guide/latest/faq.html#what-is-the-tps-transactions-per-second-on-holochain)
+- [Holo Fuel Economics 101](https://medium.com/h-o-l-o/holo-fuel-economics-101-c9631d63014a)
+- [Holo: The evolution of cloud computing](https://medium.com/h-o-l-o/holo-the-evolution-of-cloud-computing-57a0a281b88b)
+- [Holo’s Value](https://medium.com/h-o-l-o/holos-value-91888d24121)
 
 
 ### External Resources
