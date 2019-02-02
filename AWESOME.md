@@ -68,6 +68,7 @@
 - [Holo’s Value](https://medium.com/h-o-l-o/holos-value-91888d24121)
 
 #### Developer Kit Resources
+
 - [Crate HDK](https://developer.holochain.org/api/0.0.2/hdk/index.html)
 - [Building Holochain Apps](https://developer.holochain.org/guide/latest/building_apps.html)
 
@@ -118,9 +119,12 @@ Unofficial Holo channels for other Languages:
 
 
 
-### Conferences - Meetups
+### Conferences - Meetups - Interviews
 
 - [Holochain Meetup at Mozilla Mountain View](https://www.youtube.com/watch?v=NWTUk7QvMQY)
+- [Holo Interviews Archives](https://www.youtube.com/watch?v=ipn6EZu6tNg&list=PLDnORKkvsUPYGTEUK8O1QiKiQalFGDSe1)
+- [Holochats](https://www.youtube.com/watch?v=TxRvDIkSMNA&list=PLDnORKkvsUPYKmBy90g2hTvs8jlWBptV9)
+- [Holo Q & A](https://www.youtube.com/playlist?list=PLDnORKkvsUPYgkDb0_wGmy-RWq4BkICTi)
 
 
 ### Podcasts / Videos
