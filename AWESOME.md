@@ -1,4 +1,4 @@
-[<p align="center">
+<p align="center">
  <br>
   <img alt="awesome" src="images/logo.png" width="400">
    <br>
@@ -67,6 +67,8 @@
 - [Holo: The evolution of cloud computing](https://medium.com/h-o-l-o/holo-the-evolution-of-cloud-computing-57a0a281b88b)
 - [Holo’s Value](https://medium.com/h-o-l-o/holos-value-91888d24121)
 
+#### Developer Kit Resources
+- [Crate HDK](https://developer.holochain.org/api/0.0.2/hdk/index.html)
 
 ### External Resources
 
@@ -123,6 +125,9 @@ Unofficial Holo channels for other Languages:
 
 - [Holochain App Dev / Review vs Elastos $HOT vs $ELA](https://www.youtube.com/watch?v=TdW8YaHKKY0)
 - [HOLOCHAIN REVIEW (2019) - HOLO FUEL EXPLAINED - MASSIVE POTENTIAL](https://www.youtube.com/watch?v=eEbTrCS-PGQ)
+
+
+
 
 
 
