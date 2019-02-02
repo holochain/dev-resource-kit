@@ -43,6 +43,8 @@
 
 - [Developer Resource Portal](https://developer.holochain.org/)
 - [First steps writing Holochain hApps with Rust](https://medium.com/holochain/first-steps-writing-holochain-happs-with-rust-80ae111960e)
+- [Holochain in 100, 200, and 500 words](https://medium.com/h-o-l-o/heres-holochain-in-100-200-and-500-words-509818aa3c88)
+- [General Data Protection Regulation](https://medium.com/h-o-l-o/beyond-gdpr-holo-vault-delivering-on-self-sovereign-identity-for-distributed-applications-543a5449d5c9)
 
 # Apps
 Projects Using Holochain
