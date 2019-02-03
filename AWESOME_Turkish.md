@@ -16,16 +16,15 @@
 </h2>
 <blockquote>
  <p>
- Holochain ile ilgili müthiş kaynak ve iceriklerin listesi - (Kaynaklar, Araçlar ve Referanslar) 
+ Holochain ile ilgili müthiş kaynak ve iceriklerin listesi - (Kaynaklar, Araçlar ve Referanslar)
  </p>
 </blockquote>
 
 
 #### Holochain Hakkında
+Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içerikleri olduğundan sadece İngilizce dil seçeneği vardır.
 
 - [Holochain](https://holochain.org)
-- [Holochain Nedir? ](https://www.youtube.com/watch?v=hyCtYrHJebs)
-- [Guidebook](https://developer.holochain.org/guide/latest/welcome.html)
 - [Holochain Sözlük](https://devcamp.holo.host/mod/glossary/view.php?id=116)
 - [Wiki](https://en.bitcoinwiki.org/wiki/Holo)
 - [Blog](https://medium.com/holochain)
@@ -41,7 +40,15 @@
 
 # Kaynaklar
 
-
+- [Jakalon ile Holo Floodu](https://twitter.com/jakalonn/status/1042686159359565826)
+- [Artık Blokzincirini Aşın: Holochain Geliyor!](http://www.raiturk.com/holochain-nedir/)
+- [Bitcoin Ölüyor Mu? Eğer Ölüyorsa Tahtına Kim Oturabilir?](http://www.raiturk.com/holochain-gelecegi-yorum/)
+- [Holochain’in Önündeki Büyük Engel: Merkezî Aktörler](http://www.raiturk.com/holoport-onundeki-engel/)
+- [Blokzinciri Yazılımcıları Neden Holochain’e Geçiyor?](http://www.raiturk.com/blokzinciri-yazilimcilari-neden-holochaine-geciyor/)
+- [Arz Edilen Holo Token Adedi Neden 177.619.433.541?](http://www.raiturk.com/arz-edilen-holo-token-adedi-neden-177-619-433-541/)
+- [ObiWan ile Holo Floodu](https://twitter.com/obiwancoin/status/1004043037482278912)
+- [Holo Ağında Hack Olabilir Mi?](https://twitter.com/yavuzsyildiz/status/1085495054737780736)
+- [Holochain ağında kripto para çalıştırmak/yaratmak mümkünmüdür ?](https://twitter.com/yavuzsyildiz/status/1045686664591548419)
 
 
 ### Komunite
@@ -80,12 +87,12 @@ https://t.me/HoloToplulugu
 - [Nedir Bu Holoport Konusu ?](https://www.youtube.com/watch?v=dpt6khvXWB8)
 - [Holochain - Çift Taraflı Muhasebe Ne Demektir?](https://www.youtube.com/watch?v=_2peb2AaNE0)
 - [Holochain'in Getirdiği Yenilikler ve Blockchain Karşılaştırması](https://www.youtube.com/watch?v=pg2XGftiqHs)
+- [Kripto Emre Holo Analizi Videosu Yorumu](https://soundcloud.com/yavuzsyildiz/kripto-emre-holo-analizi-videosu-yorumu)
 
 
 
+### Uygulamalar
 
-
-### Apps
 Projects Using Holochain
 
 Isim | Aciklama | URL | Durumu&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
