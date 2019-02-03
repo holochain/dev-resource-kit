@@ -92,20 +92,21 @@ Languages:
 <p align="left">
 <img width="320" src="images/Arthur.jpg">
 </p>
-For Quick Reference FAQ:
+<br>
+**For Quick Reference FAQ:**
 
 - https://t.me/holoFAQ
 
-Announcement Channels:
+**Announcement Channels:**
 
 - https://t.me/holohosting
 - https://t.me/holochain
 
-For topic-organized, detailed discussion, join us on Mattermost (it’s like Slack):
+**For topic-organized, detailed discussion, join us on Mattermost (it’s like Slack):**
 
 - https://chat.holochain.net
 
-Unofficial Community-Led Groups:
+**Unofficial Community-Led Groups:**
 
 - https://t.me/holochaindev development, hApp, and currency design and philosophy
 - https://t.me/holotroopers - trade and speculation
@@ -113,7 +114,7 @@ Unofficial Community-Led Groups:
 - https://t.me/holonode - DYI hosting discussions
 - https://t.me/holomindshare - marketing and engagement
 
-Unofficial Holo channels for other Languages:
+**Unofficial Holo channels for other Languages:**
 
 - Turkish: https://t.me/HoloToplulugu
 - Arabic: https://t.me/Holo_Arabic
