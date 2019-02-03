@@ -16,7 +16,7 @@
 </h2>
 <blockquote>
  <p>
-  A curated list of awesome things related to Holochain <i>(Resources, Tools and References)</i>
+ Holochain ile ilgili müthiş kaynak ve iceriklerin listesi - (Kaynaklar, Araçlar ve Referanslar) 
  </p>
 </blockquote>
 
