@@ -88,6 +88,7 @@ https://t.me/HoloToplulugu
 - [Holochain - Çift Taraflı Muhasebe Ne Demektir?](https://www.youtube.com/watch?v=_2peb2AaNE0)
 - [Holochain'in Getirdiği Yenilikler ve Blockchain Karşılaştırması](https://www.youtube.com/watch?v=pg2XGftiqHs)
 - [Kripto Emre Holo Analizi Videosu Yorumu](https://soundcloud.com/yavuzsyildiz/kripto-emre-holo-analizi-videosu-yorumu)
+- [Holochain İncelemesi ; Holo (HOT) Nedir ?](https://www.youtube.com/watch?v=hJGiIyRDMzM)
 
 
 
@@ -97,58 +98,48 @@ Projects Using Holochain
 
 Isim | Aciklama | URL | Durumu&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
-Clutter | Prototype twitter clone | https://github.com/holochain/clutter | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/clutter.svg)
-Holochat | Distributed replacment for slack/mattermost | https://github.com/holochain/holochat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochat.svg)
-Transactor | A basic mutual credit currency | https://github.com/holochain/transactor | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/transactor.svg)
-Fractal Wiki | P2P Hypercards within hypercards | https://github.com/bifeitang/fractal-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/bifeitang/fractal-wiki.svg)
-HoloChess | Experimental P2P chess game built on Holochain & Javascript | https://github.com/holochain/holochess | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochess.svg)
-NewCraigslist | A distributed Craigslist-like Holochain app prototype developed during the Vancouver Holochain Hackathon! | https://github.com/science-girl/NewCraigslist | ![GitHub last commit](https://img.shields.io/github/last-commit/science-girl/NewCraigslist.svg)
-Cointoss | Demonstrates an algorithmic pattern for "trustable random initiation" in a distributed environment | https://github.com/holochain/cointoss | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/cointoss.svg)
-Minersweeper | Massively multiplayer distributed minesweeper | https://github.com/HC-Interns/minersweeper | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/minersweeper.svg)
-HCHC: Holochain of Holochains | Distributed app store for distributing distributed apps | https://github.com/holochain/HCHC | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/HCHC.svg)
-DAO | Holochain implementation of standard ethereum DAO (Decentralized Autonomous Organization)  | https://github.com/holochain/dao | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/dao.svg)
-Touchpoints | Near field communication event triggers and logging | https://github.com/holochain/touchpoints | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/touchpoints.svg)
-Unter (Uber clone) | Let's use Holochain to build an Uber clone minus the middleman | https://github.com/ArcadeCity/unter | ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeCity/unter.svg)
-Battleship | Holochain implementation of the game Battleship | https://github.com/willemolding/holochain-battleship | ![GitHub last commit](https://img.shields.io/github/last-commit/willemolding/holochain-battleship.svg)
-Notary | Notary system built on holochain | https://github.com/HC-Interns/notary | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/notary.svg)
-Holo-Health | Empowered (person-centric) health marketplace | https://github.com/evomimic/holo-health | ![GitHub last commit](https://img.shields.io/github/last-commit/evomimic/holo-health.svg)
-Liquid Wiki | Federated qiki ported to Holochain | https://github.com/holochain/fed-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/fed-wiki.svg)
-Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
-
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
-QuerySearch (previously HoloDex) | Bridged app for indexing your DHT data | https://github.com/HC-Interns/hc-querysearch | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/hc-querysearch.svg)
-Personas/Vault | App for people to manage how other apps access their personal information | https://github.com/holochain/holo-vault | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holo-vault.svg)
-DPKI (Distributed public key infrastructure) | Key management and self-sovereign identity | https://github.com/holochain/DPKI | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/DPKI.svg)
-Backups | Back up your source chain entries to rebuild your state in case of data loss | https://github.com/HC-Interns/proto-hc-backup | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/proto-hc-backup.svg)
-
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
-Anchors | Keeping your DHT data "found" | https://github.com/holochain/mixins | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/mixins.svg)
-PeerVis | A way to visually see who is online and connected as a peer in your Holochain app | https://github.com/holochain/PeerVis | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/PeerVis.svg)
+Clutter | Prototip twitter klonu | https://github.com/holochain/clutter | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/clutter.svg)
+Holochat | Dagitik Chat Sistemi | https://github.com/holochain/holochat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochat.svg)
+Transactor | Temel seviye karşılıklı kredi para birimi | https://github.com/holochain/transactor | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/transactor.svg)
+Fractal Wiki | Dagitik Kopruleme Sistemi | https://github.com/bifeitang/fractal-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/bifeitang/fractal-wiki.svg)
+HoloChess | Holochain & Javascript üzerine inşa edilmiş deneysel P2P satranç oyunu | https://github.com/holochain/holochess | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochess.svg)
+NewCraigslist | Vancouver Holochain Hackathon sırasında geliştirilen bir Craigslist benzeri Holochain uygulaması prototipi! | https://github.com/science-girl/NewCraigslist | ![GitHub last commit](https://img.shields.io/github/last-commit/science-girl/NewCraigslist.svg)
+Cointoss | Dağıtılmış bir ortamda "güvenilir rastgele başlatma" için algoritmik bir kalıp | https://github.com/holochain/cointoss | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/cointoss.svg)
+Minersweeper | Devasa çok oyunculu dağınık mayın tarama gemisi | https://github.com/HC-Interns/minersweeper | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/minersweeper.svg)
+HCHC: Holochain of Holochains | Dağıtılmış uygulamaları dağıtmak için olusturulan uygulama mağazası | https://github.com/holochain/HCHC | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/HCHC.svg)
+DAO | Standart ethereum DAO'nun Holochain uygulaması (Merkezi Olmayan Özerk Organizasyon)  | https://github.com/holochain/dao | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/dao.svg)
+Touchpoints | Yakın alan iletişimi olayı tetikleme ve kaydetme | https://github.com/holochain/touchpoints | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/touchpoints.svg)
+Unter (Uber clone) | Holochain uzerinde bir Uber Klonu | https://github.com/ArcadeCity/unter | ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeCity/unter.svg)
+Battleship | Battleship Holochain uygulaması | https://github.com/willemolding/holochain-battleship | ![GitHub last commit](https://img.shields.io/github/last-commit/willemolding/holochain-battleship.svg)
+Notary | Holodal üzerine inşa edilmiş noter sistemi | https://github.com/HC-Interns/notary | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/notary.svg)
+Holo-Health | Güçlendirilmiş (kişi merkezli) sağlık pazarı | https://github.com/evomimic/holo-health | ![GitHub last commit](https://img.shields.io/github/last-commit/evomimic/holo-health.svg)
+Liquid Wiki | Federal Wiki, Holochain'e taşındı | https://github.com/holochain/fed-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/fed-wiki.svg)
+Omni | Tamamen p2p makale inceleme sistemine sahip Open Access bilimsel iletişim platformu | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
+QuerySearch (previously HoloDex) | DHT verilerinizi endekslemek için köprülü uygulama | https://github.com/HC-Interns/hc-querysearch | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/hc-querysearch.svg)
+Personas/Vault | Kişilerin, diğer uygulamaların kişisel bilgilerine nasıl erişeceğini yönetmesi için uygulama. | https://github.com/holochain/holo-vault | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holo-vault.svg)
+DPKI (Distributed public key infrastructure) | Anahtar yönetimi ve kendi kendine egemen kimlik | https://github.com/holochain/DPKI | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/DPKI.svg)
+Backups | Veri kaybı durumunda durumunuzu yeniden oluşturmak için kaynak zinciri girişlerinizi yedekleyin | https://github.com/HC-Interns/proto-hc-backup | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/proto-hc-backup.svg)
+Anchors | DHT verilerinizi bulunabilir halde tutun | https://github.com/holochain/mixins | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/mixins.svg)
+PeerVis | Holochain uygulamasında kimlerin çevrimiçi olduğunu ve akranları arasında bağlantı olduğunu görsel olarak görmenin bir yolu | https://github.com/holochain/PeerVis | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/PeerVis.svg)
+Scaffold Tool | DNA yapısının hızlı oluşturulması için web aracı | https://github.com/holochain/scaffold | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/scaffold.svg)
+DNA-To-OpenAPI | holochain dna verilen, bir swagger / openapi spec dosyası oluşturmak | https://github.com/holochain/dna-to-openapi | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/dna-to-openapi.svg)
+HC-Redux-Middleware | Hollochain aramaları sağlamak için Redux.js için bir ara yazilim | https://github.com/holochain/hc-redux-middleware | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/hc-redux-middleware.svg)
+bs-holochain | Bucklescript için Holochain Bağlamaları | https://github.com/struktured/bs-holochain | ![GitHub last commit](https://img.shields.io/github/last-commit/struktured/bs-holochain.svg)
 
 
+## Kaybolan ve gelistirilmesi durdurulmus uygulamalar
+Bu uygulamalardan herhangi biri size aitse, lütfen bize bir URL ile listeleyebilmemiz için bize bildirin.
 
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
-Scaffold Tool | Web tool for rapid creation of DNA structure | https://github.com/holochain/scaffold | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/scaffold.svg)
-DNA-To-OpenAPI | given holochain dna, generate a swagger / openapi spec file | https://github.com/holochain/dna-to-openapi | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/dna-to-openapi.svg)
-HC-Redux-Middleware | Middleware for Redux.js to provide holochain calls | https://github.com/holochain/hc-redux-middleware | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/hc-redux-middleware.svg)
-bs-holochain | Holochain Bindings for Bucklescript | https://github.com/struktured/bs-holochain | ![GitHub last commit](https://img.shields.io/github/last-commit/struktured/bs-holochain.svg)
-
-
-## Lost/Orphaned apps
-If any of these apps belong to you please let us know so we can list them with a URL
- - Trust Graph: Claims, ratings, and reputation
- - Fileshare: P2P filesharing
- - Rochambeaux: Rock-Paper-Scissors (demonstrates use of private chain entries)
- - Agent.Earth: Disaster response
- - Hackstage: Event mangagement
- - MyData private data sharing:
- - Unmute / Medium / P2P Blognet:
- - P2P Library:
- - Building Permits/Approvals:
- - Tagging, Rating & Reviews:
+ - Trust Graph: Alacaklar, derecelendirmeler ve itibar
+ - Fileshare: P2P dosya paylaşımı
+ - Rochambeaux: Taş-Kağıt-Makas (özel zincir girişlerinin kullanımını gösterir)
+ - Agent.Earth: Afete müdahele
+ - Hackstage: Olay yönetimi
+ - MyData private data sharing
+ - Unmute / Medium / P2P Blognet
+ - P2P Library
+ - Building Permits/Approvals
+ - Tagging, Rating & Reviews
  - Annotate: Attach comments and information
  - Python bridge
- - [Bucklescript transpiler](https://github.com/struktured/bs-holochain) - Write Holochain apps in OCaml
+ - [Bucklescript transpiler](https://github.com/struktured/bs-holochain) - OCaml'a Holochain uygulamaları yazın
