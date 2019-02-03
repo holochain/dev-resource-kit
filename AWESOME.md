@@ -89,9 +89,9 @@ Languages:
 
 
 ### Community
-
-<img align="left" width="230" src="images/Arthur.jpg">
-
+<p align="left">
+<img width="230" src="images/Arthur.jpg">
+</p>
 For Quick Reference FAQ:
 
 - https://t.me/holoFAQ
