@@ -61,6 +61,7 @@ Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içe
 </p>
 <br>
 </br>
+
 **Sıkça Sorulan Sorular için:** (Ingilizce)
 
 - https://t.me/holoFAQ
