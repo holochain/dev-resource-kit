@@ -18,6 +18,10 @@
  <p>
   A curated list of awesome things related to Holochain <i>(Resources, Tools and References)</i>
  </p>
+ Languages:
+ [Turkish](AWESOME_Turkish.md)
+ Chinese - *WIP*
+ Russian - *Planning phase*
 </blockquote>
 
 
