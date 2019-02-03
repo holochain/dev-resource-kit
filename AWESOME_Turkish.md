@@ -56,10 +56,10 @@ Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içe
 
 ### Komunite
 
-<p align="center">
-  <img width="460" src="images/Arthur.jpg">
+<p align="left">
+<img width="320" src="images/Arthur.jpg">
 </p>
-
+<br>
 **Sıkça Sorulan Sorular için:** (Ingilizce)
 
 - https://t.me/holoFAQ
