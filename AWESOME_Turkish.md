@@ -152,6 +152,7 @@ Bu uygulamalardan herhangi biri size aitse, lütfen bize bir URL ile listeleyebi
  - Python bridge
  - [Bucklescript transpiler](https://github.com/struktured/bs-holochain) - OCaml'a Holochain uygulamaları yazın
 
+
  <p align="center">
  <img width="320" src="images/Arthur.jpg">
  </p>
