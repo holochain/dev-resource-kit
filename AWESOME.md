@@ -16,14 +16,13 @@
 </h2>
 <blockquote>
  <p>
-  A curated list of awesome things related to Holochain <i>(Resources, Tools and References)</i>
+  A curated list of awesome things related to Holochain<i>(Resources, Tools and References)</i>
  </p>
- Languages:
- [Turkish](AWESOME_Turkish.md)
- Chinese - *WIP*
- Russian - *Planning phase*
 </blockquote>
-
+Languages:
+[Turkish](AWESOME_Turkish.md)
+Chinese - *WIP*
+Russian - *Planning phase*
 
 #### About Holochain
 
