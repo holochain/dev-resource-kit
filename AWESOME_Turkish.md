@@ -1,10 +1,6 @@
 <p align="center">
  <br>
   <img alt="awesome" src="images/LogoTR.png" width="400">
-   <br>
-    <br>
-    </br>
-   </br>
   </img>
  </br>
 </p>
