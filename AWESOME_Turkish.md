@@ -98,7 +98,6 @@ https://bitcointalk.org/index.php?topic=4746136.0
 - [Kripto Emre Holo Analizi Videosu Yorumu](https://soundcloud.com/yavuzsyildiz/kripto-emre-holo-analizi-videosu-yorumu)
 - [Holochain İncelemesi ; Holo (HOT) Nedir ?](https://www.youtube.com/watch?v=hJGiIyRDMzM)
 - [Köningsberg Köprüsü, Holochain, matematiksel kanıt](https://medium.com/@tanbulist/k%C3%B6ningsberg-k%C3%B6pr%C3%BCs%C3%BC-holochain-matematiksel-kan%C4%B1t-1d64b0d5ae64)
--
 
 ### Uygulamalar
 
