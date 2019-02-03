@@ -93,6 +93,7 @@ Languages:
 <img width="320" src="images/Arthur.jpg">
 </p>
 <br>
+</br>
 **For Quick Reference FAQ:**
 
 - https://t.me/holoFAQ
