@@ -89,9 +89,6 @@ Languages:
 
 
 ### Community
-<p align="left">
-<img width="320" src="images/Arthur.jpg">
-</p>
 
 **For Quick Reference FAQ:**
 
@@ -209,3 +206,7 @@ If any of these apps belong to you please let us know so we can list them with a
  - Annotate: Attach comments and information
  - Python bridge
  - [Bucklescript transpiler](https://github.com/struktured/bs-holochain) - Write Holochain apps in OCaml
+
+ <p align="center">
+ <img width="320" src="images/Arthur.jpg">
+ </p>

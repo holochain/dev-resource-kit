@@ -56,10 +56,6 @@ Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içe
 
 ### Komunite
 
-<p align="left">
-<img width="320" src="images/Arthur.jpg">
-</p>
-
 **Sıkça Sorulan Sorular için:** (Ingilizce)
 
 - https://t.me/holoFAQ
@@ -155,3 +151,7 @@ Bu uygulamalardan herhangi biri size aitse, lütfen bize bir URL ile listeleyebi
  - Annotate: Attach comments and information
  - Python bridge
  - [Bucklescript transpiler](https://github.com/struktured/bs-holochain) - OCaml'a Holochain uygulamaları yazın
+
+ <p align="center">
+ <img width="320" src="images/Arthur.jpg">
+ </p>
