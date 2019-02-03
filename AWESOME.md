@@ -90,7 +90,7 @@ Languages:
 
 ### Community
 
-<img width="230" src="images/Arthur.jpg">
+<img align="left" width="230" src="images/Arthur.jpg">
 
 For Quick Reference FAQ:
 
