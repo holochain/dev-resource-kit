@@ -52,7 +52,7 @@ Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içe
 - [Holochain ağında kripto para çalıştırmak/yaratmak mümkünmüdür ?](https://twitter.com/yavuzsyildiz/status/1045686664591548419)
 - [Yeni İnternette Telif Hakları Nasıl Korunacak](https://medium.com/@tanbulist/yeni-i%CC%87nternette-telif-haklar%C4%B1-nas%C4%B1l-korunacak-56e71c22f4fc)
 - [Holo Fuel Üretmek / Holoport Satın Almak](http://www.raiturk.com/holo-fuel-uretmek-holoport-satin-almak/)
-
+- [Köningsberg Köprüsü, Holochain, matematiksel kanıt](https://medium.com/@tanbulist/k%C3%B6ningsberg-k%C3%B6pr%C3%BCs%C3%BC-holochain-matematiksel-kan%C4%B1t-1d64b0d5ae64)
 
 ### Komunite
 
@@ -97,7 +97,7 @@ https://bitcointalk.org/index.php?topic=4746136.0
 - [Holochain'in Getirdiği Yenilikler ve Blockchain Karşılaştırması](https://www.youtube.com/watch?v=pg2XGftiqHs)
 - [Kripto Emre Holo Analizi Videosu Yorumu](https://soundcloud.com/yavuzsyildiz/kripto-emre-holo-analizi-videosu-yorumu)
 - [Holochain İncelemesi ; Holo (HOT) Nedir ?](https://www.youtube.com/watch?v=hJGiIyRDMzM)
-- [Köningsberg Köprüsü, Holochain, matematiksel kanıt](https://medium.com/@tanbulist/k%C3%B6ningsberg-k%C3%B6pr%C3%BCs%C3%BC-holochain-matematiksel-kan%C4%B1t-1d64b0d5ae64)
+
 
 ### Uygulamalar
 
