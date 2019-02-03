@@ -92,8 +92,6 @@ Languages:
 <p align="left">
 <img width="320" src="images/Arthur.jpg">
 </p>
-<br>
-</br>
 
 **For Quick Reference FAQ:**
 
