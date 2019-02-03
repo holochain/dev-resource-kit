@@ -71,6 +71,8 @@ Languages:
 - [Holo Fuel Economics 101](https://medium.com/h-o-l-o/holo-fuel-economics-101-c9631d63014a)
 - [Holo: The evolution of cloud computing](https://medium.com/h-o-l-o/holo-the-evolution-of-cloud-computing-57a0a281b88b)
 - [Holo’s Value](https://medium.com/h-o-l-o/holos-value-91888d24121)
+- [Holo’s Org-Wide Progress in 2018](https://medium.com/h-o-l-o/holos-org-wide-progress-in-2018-40c71361bedf)
+- [Holochain : The Blockchain picks up a Dimension](https://medium.com/holochain/holochain-the-blockchain-picks-up-a-dimension-4dca43fe3a73)
 
 #### Developer Kit Resources
 
@@ -82,9 +84,15 @@ Languages:
 - [Move over, blockchain: Holochain is coming ](https://www.dw.com/en/move-over-blockchain-holochain-is-coming/a-46203245)
 - [Is Bitcoin dying? If so, what will replace it?](https://weisscryptocurrencyratings.com/news/bitcoin-dying-will-replace-1676)
 - [Why Blockchain Developers are Switching to Holochain](https://holochaincitizen.com/2018/12/19/why-blockchain-developers-are-switching-to-holochain/)
+- [Holochain (HOT) Review: Making the Blockchain Obsolete](https://www.coinbureau.com/review/holochain-hot/)
+
 
 
 ### Community
+
+<p align="center">
+  <img width="460" src="images/Arthur.jpg">
+</p>
 
 For Quick Reference FAQ:
 
