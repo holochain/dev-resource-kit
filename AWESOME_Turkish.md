@@ -94,9 +94,9 @@ https://t.me/HoloToplulugu
 
 ### Uygulamalar
 
-Projects Using Holochain
+Projelerinde Holo ve Holochain altyapisi kullanan uygulamalar.
 
-Isim | Aciklama | URL | Durumu&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Isim | Aciklama | Link | Durumu&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
 Clutter | Prototip twitter klonu | https://github.com/holochain/clutter | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/clutter.svg)
 Holochat | Dagitik Chat Sistemi | https://github.com/holochain/holochat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochat.svg)
