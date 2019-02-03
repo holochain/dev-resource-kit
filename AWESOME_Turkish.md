@@ -36,6 +36,11 @@ Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içe
 
 # Kaynaklar
 
+- [Holochain HOT nedir?](http://www.koinplatform.com/holochain-hot-nedir/)
+- [Holochain Nedir? - KriptoKoin](https://kriptokoin.com/holochain-hot-nedir/)
+- [Holochain Nedir? - KriptoKilavuz](https://kriptokilavuz.com/holochain-nedir/)
+- [Holochain Eksisozluk](https://eksisozluk.com/holochain--5604268)
+- [Holotoken nedir? Gelecek vaadeden kripto paralar](https://koinmedya.com/2018/06/18/holo-token-nedir-gelecek-vadeden-yeni-kripto-paralar-3/)
 - [Jakalon ile Holo Floodu](https://twitter.com/jakalonn/status/1042686159359565826)
 - [Artık Blokzincirini Aşın: Holochain Geliyor!](http://www.raiturk.com/holochain-nedir/)
 - [Bitcoin Ölüyor Mu? Eğer Ölüyorsa Tahtına Kim Oturabilir?](http://www.raiturk.com/holochain-gelecegi-yorum/)
@@ -45,11 +50,6 @@ Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içe
 - [ObiWan ile Holo Floodu](https://twitter.com/obiwancoin/status/1004043037482278912)
 - [Holo Ağında Hack Olabilir Mi?](https://twitter.com/yavuzsyildiz/status/1085495054737780736)
 - [Holochain ağında kripto para çalıştırmak/yaratmak mümkünmüdür ?](https://twitter.com/yavuzsyildiz/status/1045686664591548419)
-- [Holochain Eksisozluk](https://eksisozluk.com/holochain--5604268)
-- [Holochain HOT nedir?](http://www.koinplatform.com/holochain-hot-nedir/)
-- [Holochain Nedir? - KriptoKoin](https://kriptokoin.com/holochain-hot-nedir/)
-- [Holochain Nedir? - KriptoKilavuz](https://kriptokilavuz.com/holochain-nedir/)
-- [Holotoken nedir? Gelecek vaadeden kripto paralar](https://koinmedya.com/2018/06/18/holo-token-nedir-gelecek-vadeden-yeni-kripto-paralar-3/)
 
 
 ### Komunite
