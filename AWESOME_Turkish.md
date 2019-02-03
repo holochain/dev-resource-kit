@@ -45,34 +45,43 @@ Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içe
 - [ObiWan ile Holo Floodu](https://twitter.com/obiwancoin/status/1004043037482278912)
 - [Holo Ağında Hack Olabilir Mi?](https://twitter.com/yavuzsyildiz/status/1085495054737780736)
 - [Holochain ağında kripto para çalıştırmak/yaratmak mümkünmüdür ?](https://twitter.com/yavuzsyildiz/status/1045686664591548419)
+- [Holochain Eksisozluk](https://eksisozluk.com/holochain--5604268)
+- [Holochain HOT nedir?](http://www.koinplatform.com/holochain-hot-nedir/)
+- [Holochain Nedir? - KriptoKoin](https://kriptokoin.com/holochain-hot-nedir/)
+- [Holochain Nedir? - KriptoKilavuz](https://kriptokilavuz.com/holochain-nedir/)
+- [Holotoken nedir? Gelecek vaadeden kripto paralar](https://koinmedya.com/2018/06/18/holo-token-nedir-gelecek-vadeden-yeni-kripto-paralar-3/)
 
 
 ### Komunite
 
-Sıkça Sorulan Sorular için:
+**Sıkça Sorulan Sorular için:**
 
 - https://t.me/holoFAQ
 
-Anons - Duyurular:
+**Anons - Duyurular:**
 
 - https://t.me/holohosting
 - https://t.me/holochain
 
-Resmi Chat Kanalı:
+**Resmi Chat Kanalı:**
 
 - https://chat.holochain.net
 
-Resmi olmayan global Komunite Gruplari:
+**Resmi Olmayan Global Komunite Gruplari:**
 
-- https://t.me/holochaindev development, hApp, and currency design and philosophy
-- https://t.me/holotroopers - trade and speculation
-- https://t.me/holohodlers - hodler strategy, fundamental analysis channel
-- https://t.me/holonode - DYI hosting discussions
-- https://t.me/holomindshare - marketing and engagement
+- https://t.me/holochaindev Geliştirme, hApp ve para birimi tasarımı ve felsefesi
+- https://t.me/holotroopers - Ticaret ve spekülasyon
+- https://t.me/holohodlers - Hodler stratejisi, temel analiz kanalı
+- https://t.me/holonode - DIY barındırma tartışmaları
+- https://t.me/holomindshare - Pazarlama ve katılım
 
-Turkce Topluluk Telegram Grubu:
+**Turkce Topluluk Telegram Grubu:**
 
 https://t.me/HoloToplulugu
+
+**HOLOCHAIN (Hot) Bilgi Paylaşım & Tartışma Alanı:**
+
+https://bitcointalk.org/index.php?topic=4746136.0
 
 
 ### Podcast / Videolar
@@ -85,7 +94,6 @@ https://t.me/HoloToplulugu
 - [Holochain'in Getirdiği Yenilikler ve Blockchain Karşılaştırması](https://www.youtube.com/watch?v=pg2XGftiqHs)
 - [Kripto Emre Holo Analizi Videosu Yorumu](https://soundcloud.com/yavuzsyildiz/kripto-emre-holo-analizi-videosu-yorumu)
 - [Holochain İncelemesi ; Holo (HOT) Nedir ?](https://www.youtube.com/watch?v=hJGiIyRDMzM)
-
 
 
 ### Uygulamalar
