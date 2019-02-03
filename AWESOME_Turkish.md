@@ -59,8 +59,7 @@ Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içe
 <p align="left">
 <img width="320" src="images/Arthur.jpg">
 </p>
-<br>
-</br>
+
 
 **Sıkça Sorulan Sorular için:** (Ingilizce)
 
