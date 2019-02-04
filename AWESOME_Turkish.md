@@ -53,6 +53,7 @@ Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içe
 - [Yeni İnternette Telif Hakları Nasıl Korunacak](https://medium.com/@tanbulist/yeni-i%CC%87nternette-telif-haklar%C4%B1-nas%C4%B1l-korunacak-56e71c22f4fc)
 - [Holo Fuel Üretmek / Holoport Satın Almak](http://www.raiturk.com/holo-fuel-uretmek-holoport-satin-almak/)
 - [Köningsberg Köprüsü, Holochain, matematiksel kanıt](https://medium.com/@tanbulist/k%C3%B6ningsberg-k%C3%B6pr%C3%BCs%C3%BC-holochain-matematiksel-kan%C4%B1t-1d64b0d5ae64)
+- [Holochain'in merkezi firmalarla rekabeti](https://twitter.com/jakalonn/status/1092413900010782724?s=19)
 
 ### Komunite
 

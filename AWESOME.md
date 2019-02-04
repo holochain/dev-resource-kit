@@ -73,6 +73,9 @@ Languages:
 - [Holo’s Value](https://medium.com/h-o-l-o/holos-value-91888d24121)
 - [Holo’s Org-Wide Progress in 2018](https://medium.com/h-o-l-o/holos-org-wide-progress-in-2018-40c71361bedf)
 - [Holochain : The Blockchain picks up a Dimension](https://medium.com/holochain/holochain-the-blockchain-picks-up-a-dimension-4dca43fe3a73)
+- [The Legal Principles of the Cryptographic Autonomy License (CAL)](https://medium.com/h-o-l-o/some-legal-aspects-of-the-cryptographic-autonomy-license-cal-c95e18c90388)
+- [Junto: A New Breed of Social Media Powered by Holochain](https://medium.com/holochain/junto-a-new-breed-of-social-media-powered-by-holochain-1faeff487f1d)
+- [Holochain: Reinventing Applications](https://medium.com/holochain/holochain-reinventing-applications-d2ac1e4f25ef)
 
 #### Developer Kit Resources
 
@@ -85,6 +88,16 @@ Languages:
 - [Is Bitcoin dying? If so, what will replace it?](https://weisscryptocurrencyratings.com/news/bitcoin-dying-will-replace-1676)
 - [Why Blockchain Developers are Switching to Holochain](https://holochaincitizen.com/2018/12/19/why-blockchain-developers-are-switching-to-holochain/)
 - [Holochain (HOT) Review: Making the Blockchain Obsolete](https://www.coinbureau.com/review/holochain-hot/)
+- [A Beginner’s Guide to Holochain: A Framework for Peer-to-Peer Distributed Apps](https://blockonomi.com/holochain-guide/)
+- [What is Holochain?](https://itsblockchain.com/what-is-holochain/)
+- [WTF is Holochain](https://hackernoon.com/wtf-is-holochain-35f9dd8e5908)
+- [What Is Holochain?](https://www.investinblockchain.com/what-is-holochain/)
+- [Holochain (HOT) Review – An Open-Source Framework Alternative to the Blockchain](https://www.chainbits.com/reviews/holochain-review/)
+- [Introduction to Holochain, A Post-Blockchain Crypto Technology](https://unblock.net/introduction-holochain/)
+- [HoloChain Complete Guide](https://www.tokens24.com/cryptopedia/coin-guides/holochain-complete-guide)
+- [Holochain's Newsletter Archive](https://nuzzel.com/holochain)
+- [Holochain: The New Blockchain? A Look Beyond the Hype](https://hacked.com/holochain-the-new-blockchain-a-look-beyond-the-hype/)
+- [Holochain is Gaining Traction After a Great 2019 Start with Huge Gains](https://tokeninvestoronline.com/holochain-is-gaining-traction-after-a-great-2019-start-with-huge-gains/)
 
 
 
@@ -134,17 +147,22 @@ Languages:
 - [Holo Interviews Archives](https://www.youtube.com/watch?v=ipn6EZu6tNg&list=PLDnORKkvsUPYGTEUK8O1QiKiQalFGDSe1)
 - [Holochats](https://www.youtube.com/watch?v=TxRvDIkSMNA&list=PLDnORKkvsUPYKmBy90g2hTvs8jlWBptV9)
 - [Holo Q & A](https://www.youtube.com/playlist?list=PLDnORKkvsUPYgkDb0_wGmy-RWq4BkICTi)
-
+- [hAppy Hour 02: Humm.Earth](https://www.youtube.com/watch?v=Z5b3924TAoM)
+- [Holochain: Interview with Matthew Schutte, Director of Communications (HOT Crypto) Part I](https://www.youtube.com/watch?v=cGSCSFjDiss)
+- [Holochain: Interview with Matthew Schutte, Director of Communications (HOT Cryptocurrency) Part II](https://www.youtube.com/watch?v=iZqPPDvihxY)
+- [Protocol NYC: Blockchain Showcase](https://generalassemb.ly/education/protocol-nyc-blockchain-showcase/new-york-city/70558)
 
 ### Podcasts / Videos
 
 - [Holochain App Dev / Review vs Elastos $HOT vs $ELA](https://www.youtube.com/watch?v=TdW8YaHKKY0)
 - [HOLOCHAIN REVIEW (2019) - HOLO FUEL EXPLAINED - MASSIVE POTENTIAL](https://www.youtube.com/watch?v=eEbTrCS-PGQ)
-
-
-
-
-
+- [Fractal Sovereignty Podcast Episode 02: The Holochain Commons Engine with Jean Russell](https://www.youtube.com/watch?v=hWKBXTaYXU0&feature=youtu.be)
+- [HoloChain(Hot) Moonshot In Progress! Can Holo (HOT) Keep Up The Momentum](https://www.youtube.com/watch?v=mOLEn1zTGI8)
+- [Why is the Holochain price jumping? Is it too late to get in?](https://www.youtube.com/watch?v=z97VrHB-ed4)
+- [Holochain Overview- a simple explanation of a complex crypto](https://www.youtube.com/watch?v=_vfzK_UVlFc)
+- [Holochain vs Blockchain (Bitcoin)](https://www.youtube.com/watch?v=-o78FzYnTxs)
+- [Holochain Review, HOT Token](https://www.youtube.com/watch?v=4-yw0kxO7sE)
+- [Holochain Up 81% This Week! 🔥 Price Correction Coming? What Is Holochain?](https://www.youtube.com/watch?v=nwEhqouSMF4)
 
 ### Apps
 Projects Using Holochain
