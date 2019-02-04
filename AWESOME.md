@@ -20,7 +20,7 @@
  </p>
 </blockquote>
 
-Languages:
+Alternative Languages:
 - [Turkish](AWESOME_Turkish.md)
 - Chinese - *WIP*
 - Russian - *Planning phase*
