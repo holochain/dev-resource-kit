@@ -186,23 +186,12 @@ Notary | Notary system built on holochain | https://github.com/HC-Interns/notary
 Holo-Health | Empowered (person-centric) health marketplace | https://github.com/evomimic/holo-health | ![GitHub last commit](https://img.shields.io/github/last-commit/evomimic/holo-health.svg)
 Liquid Wiki | Federated qiki ported to Holochain | https://github.com/holochain/fed-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/fed-wiki.svg)
 Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
-
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
 QuerySearch (previously HoloDex) | Bridged app for indexing your DHT data | https://github.com/HC-Interns/hc-querysearch | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/hc-querysearch.svg)
 Personas/Vault | App for people to manage how other apps access their personal information | https://github.com/holochain/holo-vault | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holo-vault.svg)
 DPKI (Distributed public key infrastructure) | Key management and self-sovereign identity | https://github.com/holochain/DPKI | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/DPKI.svg)
 Backups | Back up your source chain entries to rebuild your state in case of data loss | https://github.com/HC-Interns/proto-hc-backup | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/proto-hc-backup.svg)
-
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
 Anchors | Keeping your DHT data "found" | https://github.com/holochain/mixins | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/mixins.svg)
 PeerVis | A way to visually see who is online and connected as a peer in your Holochain app | https://github.com/holochain/PeerVis | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/PeerVis.svg)
-
-
-
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
 Scaffold Tool | Web tool for rapid creation of DNA structure | https://github.com/holochain/scaffold | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/scaffold.svg)
 DNA-To-OpenAPI | given holochain dna, generate a swagger / openapi spec file | https://github.com/holochain/dna-to-openapi | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/dna-to-openapi.svg)
 HC-Redux-Middleware | Middleware for Redux.js to provide holochain calls | https://github.com/holochain/hc-redux-middleware | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/hc-redux-middleware.svg)
