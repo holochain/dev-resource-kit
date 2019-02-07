@@ -114,7 +114,7 @@ Alternative Languages:
 
 **For topic-organized, detailed discussion, join us on Mattermost (it’s like Slack):**
 
-- https://chat.holochain.net
+- https://chat.holochain.org
 
 **Unofficial Community-Led Groups:**
 
@@ -213,6 +213,7 @@ If any of these apps belong to you please let us know so we can list them with a
  - Annotate: Attach comments and information
  - Python bridge
  - [Bucklescript transpiler](https://github.com/struktured/bs-holochain) - Write Holochain apps in OCaml
+ - [Mailboox - A distributed liberary](https://github.com/zaunders/Mailboox-Rust)
 
 
  <p align="center">
