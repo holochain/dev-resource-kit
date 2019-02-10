@@ -151,6 +151,7 @@ Alternative Languages:
 - [Holochain: Interview with Matthew Schutte, Director of Communications (HOT Crypto) Part I](https://www.youtube.com/watch?v=cGSCSFjDiss)
 - [Holochain: Interview with Matthew Schutte, Director of Communications (HOT Cryptocurrency) Part II](https://www.youtube.com/watch?v=iZqPPDvihxY)
 - [Protocol NYC: Blockchain Showcase](https://generalassemb.ly/education/protocol-nyc-blockchain-showcase/new-york-city/70558)
+- [Intro to Holochain - Web3 Brisbane](https://www.youtube.com/watch?v=ptmFRNpdhaY)
 
 ### Podcasts / Videos
 
