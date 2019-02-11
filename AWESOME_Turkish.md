@@ -14,9 +14,8 @@
  <p>
  Holochain ile ilgili müthiş kaynak ve iceriklerin listesi - (Kaynaklar, Araçlar ve Referanslar)
  </p>
- Soru, görüş ve geribildirimleriniz için [@coinciyiz](https://twitter.com/coinciyiz)
 </blockquote>
-
+Soru, görüş ve geribildirimleriniz için [@coinciyiz](https://twitter.com/coinciyiz)
 
 #### Holochain Hakkında
 Burada holochain ve holo hakkinda yayınlanan içerikler ekibin kendi resmi içerikleri olduğundan sadece İngilizce dil seçeneği vardır.
