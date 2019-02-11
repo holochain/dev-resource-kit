@@ -14,6 +14,7 @@
  <p>
  Holochain ile ilgili müthiş kaynak ve iceriklerin listesi - (Kaynaklar, Araçlar ve Referanslar)
  </p>
+ Soru, görüş ve geribildirimleriniz için [@coinciyiz](https://twitter.com/coinciyiz)
 </blockquote>
 
 
