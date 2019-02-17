@@ -79,7 +79,7 @@ Alternative Languages:
 
 #### Developer Kit Resources
 
-- [Crate HDK](https://developer.holochain.org/api/0.0.3/hdk/index.html)
+- [Crate HDK](https://developer.holochain.org/api/0.0.4/hdk/index.html)
 - [Building Holochain Apps](https://developer.holochain.org/guide/latest/building_apps.html)
 
 ### External Resources
