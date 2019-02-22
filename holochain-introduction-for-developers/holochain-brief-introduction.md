@@ -11,7 +11,7 @@ Centralized services act as proxies of trust. We may not be able to trust a mill
 * **They are more attractive to attackers.**
 * **They leave users vulnerable to service outages.**
 * **They concentrate power in the hands of a few.**
-* **They burden the service operator with heavy responsibilities.**
+* **They burden the service operator with liabilities and costs.**
 
 Blockchain opened our imaginations to the possibility of trustable, decentralized coordination with untrusted peers, but suffers from efficiency problems that are inherent to its design.
 
