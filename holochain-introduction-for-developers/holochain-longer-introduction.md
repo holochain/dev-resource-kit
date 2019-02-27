@@ -102,9 +102,17 @@ Holochain does not have a single 'main chain' or DHT. Every DNA has its own priv
 
 ### Building your distributed application
 
-#### Custom validation rules
+#### User identities
 
-DNA should contain a small set of functionality that implements only the core domain and storage logic necessary for participants to trust each other's data. Each DNA should have a tightly scoped domain of responsibility, like a microservice. Many DNAs then combine to provide functionality for a full-featured application. Most logic should live outside of DNA in the client-side portion of your app. Clients are completely decoupled from DNA, which means that users have choice when it comes to interacting with any Holochain application.
+Holochain gives each user full control over their identity. As mentioned, each agent in the system (whether human or bot) is represented by a public key, whose private counterpart stays on the agent's device. There is no need to manage and protect passwords in a central database. An app called DeepKey manages continuity of identity across devices and allows users to retire keys belonging to lost or stolen devices. Another app called Vault allows participants to store their own personally-identifying information and share it with other apps at their discretion.
+
+Each agent's data also remains under their control: only they can write to their source chain, because only they have the private key which can sign their entries. The canonical copy of their source chain stays on their device. No data marked private is ever shared with the DHT.
+
+User _privileges_, on the other hand (such as being allowed to join a network or publish/edit/delete public entries on the DHT) are enforced by **validation rules**, which we'll talk about soon.
+
+#### Application data types, API, and validation rules
+
+DNA should contain a small set of functionality that implements only the core domain and storage logic necessary for participants to trust each other's data. Each DNA should have a tightly scoped domain of responsibility, like a microservice. Many DNAs then combine to provide functionality for a full-featured application. Most logic should live outside of DNA in the client-side portion of your app. Clients are completely decoupled from DNA, which means that users have choice when it comes to interacting with any Holochain application. It also means that you can 'remix' existing DNAs into your own application, including a number of generic DNA templates that we're building for commonly needed functionality.
 
 The framework comes with a **Holochain development kit (HDK)** that makes it easy for you to build your DNA. Currently we have a Rust HDK, but we expect language support to grow as adoption increases. With the HDK, you can define:
 
@@ -184,7 +192,5 @@ If your app has storage and performance needs that make it inappropriate for use
 
 # Missing subjects
 
-* Core services and apps -- DPKI, Vault (touched on HCHC briefly under [delivering section](#Delivering-your-application-to-the-world)). I've heard that there are also core 'template apps' (for lack of a better phrase). I don't actually know what these are, but they seem to be things like basic DNAs for messaging, commenting, etc.
-* Details of DPKI and what it's supposed to do -- this will be mostly uninteresting from people coming from the server-based world (except that they won't have to learn how to store passwords, which is cool). But it will be an amazing epiphany for people coming from the blockchain world.
 * Onboarding process and admin GUI -- what happens when a user installs Holochain for the first time. Related to DPKI.
 * Brief mention of eventual consistency, security considerations, threat models, etc -- all the weird stuff that doesn't matter until you go distributed.
