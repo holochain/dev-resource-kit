@@ -182,6 +182,19 @@ We recognize that not everyone will be running Holochain, especially at the begi
 
 If your app has storage and performance needs that make it inappropriate for users to install Holochain on their machines --- a mobile video sharing app, for instance --- consider deploying your DNAs on Holo Host without a web-based UI bundle. Currently our Holo 'light client' library is written in JavaScript, which would make it appropriate for webview or Cordova-based applications.
 
+### Things you'll need to keep in mind
+
+Blockchain was a totally new idea, with its own set of advantages and pitfalls for developers. Holochain is different again from client/server and blockchain, so there are some things you'll need to chew on as you start programming in this new paradigm:
+
+* At the core of Holochain's philosophy is the relativity of all data. Each piece of information is reported from the perspective of one agent, there is no global clock, and no one agent has the power to coerce others into accepting its own view. Shared reality is built up from overlapping perspectives that agree with each other.
+* Holochain's DHT is an 'eventually consistent' database, which means that propagation delays will cause different agents to have temporarily incomplete views of shared reality. How do your validation functions accommodate this? Can data 'peg' itself to other, potentially stale data while the network is syncing?
+* With no central database, there is no single source of truth -- no global timestamp, no shared timeline. What does this mean for things like username conflicts, voting deadlines, and 'canonical' copies of a document? Can data comfortably diverge, or will you need to design ways to resolve conflicts? Designated authorities are one solution, but we also encourage you to think about collective governance -- mediated conflict resolution, peer review processes, or resource auctions.
+* How does the election of random validators affect your users' privacy? Given that anyone can be holding a copy of their public data, are there data mining or privacy concerns? Holochain doesn't solve the problem of unauthorised use, but it can give participants the tools they need to prove that a certain use of a piece of data was done in breach of agreement.
+* Holochain is designed for facilitating networks of trust rather than anonymous, trustless interactions. For secrecy-sensitive applications, how might your users' identity be revealed by their persistent public history? If users are allowed to spin up new identities for privacy's sake, what sorts of social or technical Sybil attacks might this allow?
+* The integrity of your app stands and falls on the correctness of your validation functions. This is why we encourage writing your DNA in a disciplined language like Rust, which offers compile-time guarantees of type safety. But you also need to think about the consequences of every line of code in the context of a distributed, peer-to-peer network.
+
+
+
 ## Pithy closing statement or call-to-action
 
 ---
