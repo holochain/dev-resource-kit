@@ -2,7 +2,7 @@
 
 > Holochain is a _protocol_ and _framework_ for creating cryptographically secure, portable, and distributed applications. It provides the necessary tools to allow individuals to maintain control over their identity and data, while interacting safely with a network of untrusted peers.
 >
-> The purpose of this document is to help you quickly understand:
+> The purpose of this document is to help developers and technologists quickly understand:
 >
 > * Why we're building Holochain
 > * What the project consists of
