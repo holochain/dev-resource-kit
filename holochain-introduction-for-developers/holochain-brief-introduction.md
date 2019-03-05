@@ -25,18 +25,18 @@ Blockchain opened our imaginations to the possibility of trustable, decentralize
 
 Holochain gives you the tools to create applications that enable direct, trustable interactions among sovereign peers. It does this without needing the central coordination of a server or a group of miners. We are building:
 
-* A **peer-to-peer protocol** that shares data among participants, giving them the power to act collectively as an 'immune system' that pushes out bad actors.
+* A **peer-to-peer protocol** that shares data among participants, giving them the power to act collectively as an 'immune system' that detects invalid data and pushes out bad actors.
 * An open-source **application development framework** that abstracts away complexity and allows you to focus on your core functionality.
 * A set of **core apps and utilities**, including an identity manager, a private data vault, and a software distribution platform.
-* A **distributed hosting ecosystem** that bridges Holochain to the web so people can use your apps as if they were traditional, server-based apps.
+* A **distributed hosting ecosystem** called Holo Hosting which bridges Holochain to the web so people can use your apps as if they were traditional, server-based apps.
 
 ### Uncompromisable sovereignty
 
-Each participant is in control of their own identity and data. Private data stays private, and public data is signed to prove ownership and authenticity.
+Each participant is in control of their own identity and data. Private data stays private, and public data is cryptographically signed to prove ownership and authenticity.
 
 ### Intrinsic data integrity
 
-Rather than ensuring trust by getting everyone to agree on a single global timeline, Holochain lets the data speak for itself. Every participant has a copy of an app's validation rules, which gives them the power to audit other participants' data.
+Rather than getting everyone to agree on a single global timeline, Holochain lets data speak for itself. Every participant has a copy of an app's validation rules, which gives them the power to audit other participants' data.
 
 ### Resilience through interconnection
 
@@ -52,7 +52,7 @@ Participants are equipped with rich information about their peers and come to th
 
 ### Anti-fragility
 
-Holochain networks work collectively to redistribute responsibility for data and traffic, which means that activity flows nimbly around outages, partitions, and attacks. Apps can even work offline.
+Holochain networks constantly redistribute responsibility for data and traffic, which means that they flow nimbly around outages, partitions, and attacks. Apps can even work offline.
 
 ### High performance, low cost
 
@@ -60,7 +60,7 @@ Distributed apps will only succeed if they're a pleasure to use. Because Holocha
 
 ### Rapid application development
 
-We're building a framework that handles the ins-and-outs of peer coordination so you can focus on building the things that matter to your users. Holochain is lightweight, batteries included, and available for your favorite operating system.
+We're building a framework that handles the ins-and-outs of peer coordination so you can focus on building the things that matter to your users. Holochain is lightweight, batteries included, and available for most operating systems.
 
 ### Versatile organizational forms
 
@@ -68,8 +68,8 @@ Holochain doesn't impose any economic, governance, licensing, or business models
 
 ### Flexible interfacing
 
-Your Holochain app is like a microservice on the user's device. Connect to it locally and securely via HTTP or WebSocket using your favorite GUI toolkit, an IoT device on the local network, or even a humble bash script.
+Your Holochain app is like a microservice on the user's device. Connect to it locally and securely via HTTP or WebSocket using your favorite GUI toolkit, a 'glue' service written in Node.JS, or even a humble shell script.
 
 ### Peer-to-peer hosting
 
-Holo Host offers a bridge from Holochain to the web, so you can deploy into the cloud and let a marketplace of distributed hosts serve your app as if it were a traditional web app.
+Holo Hosting offers a bridge from Holochain to the web, so you can deploy into the cloud and let a marketplace of distributed hosts serve your app as if it were a traditional web app.
