@@ -27,7 +27,7 @@ Holochain gives you the tools to create applications that enable direct, trustab
 
 * A **peer-to-peer protocol** that shares data among participants, giving them the power to act collectively as an 'immune system' that pushes out bad actors.
 * An open-source **application development framework** that abstracts away complexity and allows you to focus on your core functionality.
-* A set of **core apps and utilities**, including an identity manager, a private data vault, an app store, and a software distribution platform.
+* A set of **core apps and utilities**, including an identity manager, a private data vault, and a software distribution platform.
 * A **distributed hosting ecosystem** that bridges Holochain to the web so people can use your apps as if they were traditional, server-based apps.
 
 ### Uncompromisable sovereignty
