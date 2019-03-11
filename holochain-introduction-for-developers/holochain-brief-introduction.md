@@ -10,9 +10,9 @@
 
 ## The problem
 
-The Internet is decentralized by design. Many services, such as the web and email, have no central points. But in order to move through the Internet confidently, we need **trust.** How can you know I am who I say I am, and how can you be sure that I'm acting with integrity?
+In theory, the Internet levels the playing field for all participants. Most protocols are built to accommodate a measure of decentralization, and even packets find their own way to their destination. But in order to move through the Internet confidently, we need **trust.** How do you know you I'm telling you the truth?
 
-Centralized services act as proxies of trust. We may not be able to trust a million anonymous peers, but we can trust these big services to faithfully negotiate our interactions with those peers — **until we can't.** These systems are beginning to show weaknesses that are direct consequences of centralization.
+In the absence of trust, centralized entities act as guarantors of integrity. We may not be able to trust a million anonymous peers, but we can trust these big services to faithfully negotiate our interactions with those peers — **until we can't.** These systems are beginning to show weaknesses that are direct consequences of centralization.
 
 * **They are more attractive to attackers.**
 * **They leave users vulnerable to service outages.**
