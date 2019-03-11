@@ -21,22 +21,26 @@ Centralized services act as proxies of trust. We may not be able to trust a mill
 
 Blockchain opened our imaginations to the possibility of trustable, decentralized coordination with untrusted peers, but suffers from efficiency problems that are inherent to its design. The next wave of decentralized ledgers improve performance and resilience but carry over some of blockchain's assumptions. They hint at the full potential of this technology but stop before they reach the finish line.
 
-## Holochain: fully sovereign, distributed, trustable coordination
+## Holochain: empowered, distributed, trustable cooperation
 
-Holochain gives you the tools to create applications that enable direct, trustable interactions among sovereign peers. It does this without needing the central coordination of a server or a group of miners. We are building:
+Holochain gives you the tools to create applications that enable direct interactions among mutually sovereign peers. It provides integrity guarantees without central servers or a mining class. We are building:
 
 * A **peer-to-peer protocol** that shares data among participants, giving them the power to act collectively as an 'immune system' that detects invalid data and pushes out bad actors.
 * An open-source **application development framework** that abstracts away complexity and allows you to focus on your core functionality.
 * A set of **core apps and utilities**, including an identity manager, a private data vault, and a software distribution platform.
 * A **distributed hosting ecosystem** called Holo Hosting which bridges Holochain to the web so people can use your apps as if they were traditional, server-based apps.
 
-### Uncompromisable sovereignty
+### Self-determination
 
 Each participant is in control of their own identity and data. Private data stays private, and public data is cryptographically signed to prove ownership and authenticity.
 
+### Social first
+
+Holochain is designed for connecting humans. The development framework gives you the tools you need to build things that foster collaborative social spaces.
+
 ### Intrinsic data integrity
 
-Rather than getting everyone to agree on a single global timeline, Holochain lets data speak for itself. Every participant has a copy of an app's validation rules, which gives them the power to audit other participants' data.
+Rather than getting everyone to agree on a single global timeline, Holochain lets data speak for itself. Every participant has a copy of an app's validation rules, which gives them the power to audit their peers' data before choosing to engage with them.
 
 ### Resilience through interconnection
 
